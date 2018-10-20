@@ -3,7 +3,7 @@ include <stdio.h>
 int main(void){
 	
 	
-	int x = 10;
+	int x = 22;
 	int y = 5;
 	
 	printf(" x is %i\n",x);
